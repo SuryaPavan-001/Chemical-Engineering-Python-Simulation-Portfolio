@@ -8,7 +8,7 @@ This repository contains multiple chemical engineering simulations developed usi
 
 ## 📊 Included Projects
 
-### 1️⃣ **Batch Reactor Simulation** [text](https://github.com/SuryaPavan-001/-Batch-Reactor-Simulation-using-Python)
+### 1️⃣ **Batch Reactor Simulation** [link](https://github.com/SuryaPavan-001/-Batch-Reactor-Simulation-using-Python)
 - Simulated 1st, 2nd, and 3rd order reaction kinetics.
 - Analyzed concentration vs time and conversion vs time.
 - Tools: `NumPy`, `SciPy`, `Matplotlib`
